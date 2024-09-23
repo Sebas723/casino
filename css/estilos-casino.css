@@ -93,7 +93,7 @@ header{
 }
 
 .carousel .list .item .topic{
-    color: #f1683a;
+    color: rgb(10, 35, 104);
 }
 
 .carousel .list .item .buttons{
@@ -407,8 +407,8 @@ header{
 
 
 .info-section .img-container img{
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
 }
 
 /* FOOTER */
